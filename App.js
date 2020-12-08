@@ -9,6 +9,8 @@ export default function App() {
       <View style={{ backgroundColor: "dodgerblue", flex: 1 }} />
       <View style={{ backgroundColor: "red", flex: 1 }} />
       <View style={{ backgroundColor: "tomato", flex: 1 }} />
+      <View style={{ backgroundColor: "tomato", flex: 1 }} />
+
       <StatusBar style="auto" />
     </View>
   );
